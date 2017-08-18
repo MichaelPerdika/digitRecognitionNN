@@ -4,7 +4,7 @@ It was developed for one of my student projects and the goal was to create a ser
 
 <h2> Synopsis </h2>
 This repository only contains the serial version which served as a benchmark for the CUDA version. The CUDA
-code may or may not be uploaded in the future.
+code is located in the respective folder and it ran in a grid provided by my University. 
 The program is not optimal regarding design and performance, as it was in my early years of development. It is not my immediate interest to optimize it, maybe in the future.
 However, I will maintain this repository because it is the first serious programming project I developed as a student and because it actually gives good results.
 
