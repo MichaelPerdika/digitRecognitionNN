@@ -19,8 +19,8 @@ The network is capable of correctly predicting more than 90% even on unknown dat
 <h2> How to use it </h2>
 A simple make file has been used here to simply compile the program. The user needs to navigate to the root of the project
 and simply run 
-`make` 
+```make``` 
 An executable file named main.exe will appear and then the user must run 
-`./main.exe train_images train_labels` 
+```./main.exe train_images train_labels```
 sample train images and labels are located in the data file. This should work:
-`./main.exe data/train-images.idx3-ubyte data/train-labels.idx1-ubyte` 
+```./main.exe data/train-images.idx3-ubyte data/train-labels.idx1-ubyte```
