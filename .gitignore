@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Ignore input files, user can download the data from the site. Refer to README
+*.idx3-ubyte
+*.idx1-ubyte
