@@ -23,6 +23,10 @@ and simply run
 `make` 
 
 An executable file named main.exe will appear and then the user must run 
-```./main.exe train_images train_labels```
+
+`./main.exe train_images train_labels`
+
 sample train images and labels are located in the data file. This should work:
-```./main.exe data/train-images.idx3-ubyte data/train-labels.idx1-ubyte```
+
+`./main.exe data/train-images.idx3-ubyte data/train-labels.idx1-ubyte`
+
